@@ -1,6 +1,9 @@
 
 - Period : Mar.20.2021 ~ May.30.2021
 
+## - Why did I analyze the data?
+- blah blah blah~~
+
 ## Analysis Process
 **1. Crawling**
 - I had web crawling the website that exists revies about cosmetics.
