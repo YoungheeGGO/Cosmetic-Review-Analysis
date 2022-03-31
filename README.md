@@ -1,10 +1,27 @@
-# Cosmetic-Review-Analysis
-- 진행날짜 : 2021.03.02 ~ 2021.05.30
 
-## 분석과정
-1. 크롤링
-2. EDA
-3. Word2vec
+- Period : Mar.20.2021 ~ May.30.2021
+
+## Analysis Process
+**1. Crawling**
+- I had web crawling the website that exists revies about cosmetics.
+- There was so many types of cosmetics, I had narrowed down the analysis object to "Hand cream".
+- And There was ranking about handcream sales, I had crawl just high (ranking 1\~3), middle (ranking 50\~52), bottom rank(ranking 98\~100).
+- Also, The user information about age, gender, written date, skin type(dry, oily, sensitive, combination) were crawled. 
+
+**2. EDA**
+- I made the word clouds per its reviewr's age, gender, skin type with the review text.
+- Word Cloud of 20's Female who has dry skin 
+<img src="https://user-images.githubusercontent.com/102137580/160996581-9ce11c26-2d42-476e-b778-1a0a57b8d566.png" width="500" height="300">
+
+- Word Cloud of  30's Male who has combination skin 
+<img src="https://user-images.githubusercontent.com/102137580/160998036-8a6e8de1-45b3-4638-812d-b50dc798853f.png" width="500" height="300">
+
+- Except for general word like *Hand, Cream, Product*, there was a common word not regarding age, gender, skin type : *Absorption, Price, Scent, Moisturizing*
+
+
+**3. Word2vec**
+- 
+
 
 
 ## 느낀 점
