@@ -1,9 +1,14 @@
 
 - Period : Mar.20.2021 ~ May.30.2021
 
-## - Why did I analyze the data?
-- blah blah blah~~
-- blah
+## Why did I analyze the data?
+- Price competition is intensifying due to the rapid increase in various new brands, direct management stores, and franchises. -> Deteriorating profitability of cosmetic manufacturers
+  - (ref: *Industrial Trends Report,* Cosmetics Industry Trends, and K-Beauty Global Competitiveness Analysis)
+- The cosmetics market is attempting to apply the latest trend analysis techniques using big data such as SNS data.
+  - (ref: 2018 Global Cosmetics Market Trend Analysis Seminar)
+- Asia's share of skin care products is about 41%, which is overwhelmingly competitive.
+  - (ref: Case analysis of brand concept development through big data analysis of cosmetics companies, Jumin Lee, Jounghae Bang)
+- So, I decided to understand consumption trends through a review analysis of Skin Care's flagship product "Hand Cream."
 
 ## Analysis Process
 **1. Crawling**
@@ -26,6 +31,7 @@
 **3. Word2vec**
 - blah~~
 
+**4. Conclusion & Significance**
 
 
 ## 느낀 점
