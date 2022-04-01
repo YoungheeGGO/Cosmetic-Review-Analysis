@@ -55,5 +55,8 @@
   - I thought studying XAI will be interesting.
 
 ## The point that need to improvement
-- 딥러닝 돌릴만큼의 데이터가 충분히 확보되지 않았음.(top 랭크만 데이터가 많았다.) 하지만 그럼에도 불구하고 결과가 잘 나온 이유는 아마 문장에서 호불호가 명확하게 드러났기 때문으로 유추해 볼 수 있을 것 같다.
-- 2위 데이터 오염 
+- There is not enough data to run deep learning (only the top rank had a lot of data), but the reason why the results came out well is probably that the likes and dislikes were clearly revealed in the sentence.
+- There was data pollution in 2nd ranking review data.
+  - The second-ranked product is a mixture of reviews from general consumers and reviews from consumers classified as "evaluation groups."
+  - Reviews by the evaluation team tend to be lower than general consumers' ratings, so the reliability of reviews decreases.
+
