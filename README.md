@@ -10,7 +10,7 @@
   - (ref: Case analysis of brand concept development through big data analysis of cosmetics companies, Jumin Lee, Jounghae Bang)
 - So, I decided to understand consumption trends through a review analysis of Skin Care's flagship product "Hand Cream."
 
-## Analysis Process
+## Analysis Process Description 
 **1. Crawling**
 - I had web crawling the website that exists revies about cosmetics.
 - There was so many types of cosmetics, I had narrowed down the analysis object to "Hand cream".
@@ -54,6 +54,6 @@
 - Everyone was reluctant to deep learning because of the limitations of deep learning called the black box, which came out because of the hidden layer.
   - I thought studying XAI will be interesting.
 
-## The point need to improvement
+## The point that need to improvement
 - 딥러닝 돌릴만큼의 데이터가 충분히 확보되지 않았음.(top 랭크만 데이터가 많았다.) 하지만 그럼에도 불구하고 결과가 잘 나온 이유는 아마 문장에서 호불호가 명확하게 드러났기 때문으로 유추해 볼 수 있을 것 같다.
 - 2위 데이터 오염 
