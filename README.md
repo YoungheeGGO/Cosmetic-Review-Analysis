@@ -29,7 +29,7 @@
 
 
 **3. Word2vec**
-- blah~~
+
 
 **4. Conclusion & Significance**
 
