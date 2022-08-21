@@ -36,12 +36,16 @@
 - In an embedded word, I find out the correlation the word *Absorption, Price, Scent, Moisturizing* to "good".
 - Top ranked
 
+<div align='center'>
+
 | word | rank 1 | rank 2 | rank 3 |
 | ---- | ------ | ------ | ------ |
 | Scent | 0.69 | 0.18 | 0.83 |
 | Moisturizing | 0.70 | 0.18 | 0.83 |
 | Absorption | 0.7 | 0.19 | 0.79 |
 | Price | 0.56 | 0.11 | 0.71 |
+
+</div>
 
 - Further to the existing positive and negative analysis, the causes of positive/negative thoughts were analyzed from various angles in terms of *scent, price, moisturizing, and absorption.*
 
